@@ -30,6 +30,6 @@ I graduated from university as an Electrical-Electronics Engineer in 2020 and de
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umutcaltinsoy&hide=python&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnkeles&hide=python&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Umut's GitHub stats](https://github-readme-stats.vercel.app/api?username=umutcaltinsoy&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Umut's GitHub stats](https://github-readme-stats.vercel.app/api?username=mnkeles&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
