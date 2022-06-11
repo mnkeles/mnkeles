@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
+🌱 I’m currently learning Java
 
 I graduated from university as an Electrical-Electronics Engineer in 2020 and decided to become a software developer. Currently working with Java and learning Java technologies such as Spring and other Spring technologies. The other technologies will be listed in toolbox below.
 
