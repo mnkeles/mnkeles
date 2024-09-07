@@ -1,37 +1,45 @@
-### Hi there 👋 I'm Necati
+<h2 align="left">Hi 👋! My name is Necati and I'm a Software Developer, from Turkiye🔥🔥</h2>
 
-<!--
-**mnkeles/mnkeles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&username=mnkeles" height="150" alt="languages graph"  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Java
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" width="72" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" width="72" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42" width="72" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" width="72" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="42" width="72" alt="kotlin logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="42" width="72" alt="intellij logo"  />
+</div>
 
-- 🌱 I’m currently learning Java
-- 📫 How to reach me **muhammetnkeles@gmail.com**
+###
 
-I graduated from university as an Electrical-Electronics Engineer in 2020 and decided to become a software developer. Currently working with Java and learning Java technologies such as Spring and other Spring technologies. The other technologies will be listed in toolbox below.
+<div align="center">
+  <a href="https://www.instagram.com/necatikelees/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=berkayhbrl&logo=instagram&label=&color=5851DB&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="mailto:necatikelees@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://tr.linkedin.com/in/necatikeles)" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=BERKAYHABERAL&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://medium.com/@necatikeles" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=BERKAYHABERAL&logo=medium&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
+  </a>
+</div>
 
+###
 
-🧰 Toolbox
+<br clear="both">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java Logo" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="Spring Logo" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain-wordmark.svg" alt="IntelliJ Logo" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git Logo" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSql Logo" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySql Logo" width="50" height="50" />
+<div align="center">
+  <img height="200" src="https://c.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif"  />
+</div>
 
-
----
-
-## &#x1f4c8; My GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnkeles&hide=python&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Necati's GitHub stats](https://github-readme-stats.vercel.app/api?username=mnkeles&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+###
