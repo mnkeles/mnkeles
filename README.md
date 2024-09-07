@@ -27,10 +27,10 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://tr.linkedin.com/in/necatikeles)" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=BERKAYHABERAL&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=NecatiKeles&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://medium.com/@necatikeles" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=BERKAYHABERAL&logo=medium&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
+    <img src="https://img.shields.io/static/v1?message=NecatiKeles&logo=medium&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
   </a>
 </div>
 
